@@ -8,7 +8,6 @@ import os
 from PIL import Image
 import warnings
 import pymongo
-import mysql.connector as sql
 warnings.filterwarnings('ignore')
 
 #PART 2
