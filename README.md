@@ -81,8 +81,9 @@ Utilize Plotly to create interactive and informative visualizations for EDA, mak
 
 Create a comprehensive Tableau dashboard to visually analyze Airbnb data, with a focus on average prices and the number of reviews based on country and room types.
 
-Explore the Tableau dashboard[(https://public.tableau.com/app/profile/kiruthicka.gp/viz/Airbnbguviproject4/Airbnbanalysis?publish=yes)](https://public.tableau.com/app/profile/kiruthicka.gp/viz/Airbnbguviproject4/Airbnbanalysis?publish=yes)
+Explore the Tableau dashboard
 
+https://public.tableau.com/app/profile/kiruthicka.gp/viz/Airbnbguviproject4/Airbnbanalysis?publish=yes
 
 
 
