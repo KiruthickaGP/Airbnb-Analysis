@@ -1,32 +1,43 @@
 # Airbnb-Analysis
 
-1.Introduction
+**1.Introduction**
 
 Airbnb delves into a comprehensive exploration of Airbnb data. Airbnb has revolutionized the travel and property management industry, making it crucial to analyze its data to gain insights into pricing, availability patterns, and location-based trends. This project employs MongoDB Atlas, Streamlit , tableau and data visualization techniques to provide an in-depth analysis.
 
-2.Table of Contents
+**2.Table of Contents**
 
 Key Technologies and Skills
 
 Python
+
 Pandas
+
 MongoDB
+
 mySQL
+
 Streamlit
+
 Plotly
+
 Tableau
+
 Installation
 
-3.To run this project, you need to install the following packages:
+**3.To run this project, you need to install the following packages:**
 
 pip install pandas
+
 pip install pymongo
+
 pip install mysql
+
 pip install streamlit
+
 pip install plotly
 
 
-4.Data Collection and Preprocessing
+**4. Data Collection and Preprocessing**
 
 - MongoDB Data Retrieval: Acquire the Airbnb dataset from MongoDB for analysis.
 
@@ -58,15 +69,15 @@ Features Analysis
   
 - Availability Trends: Visualize property availability for the next 30, 60, 90, and 360 days.
   
-5.Top Host Analysis
+**5.Top Host Analysis**
 
 Identify and analyze the top 10 hosts based on various features, providing insights into host performance and success.
 
-6.Visualizations
+**6.Visualizations**
 
 Utilize Plotly to create interactive and informative visualizations for EDA, making data exploration efficient and insightful.
 
-7.Tableau Dashboard
+**7.Tableau Dashboard**
 
 Create a comprehensive Tableau dashboard to visually analyze Airbnb data, with a focus on average prices and the number of reviews based on country and room types.
 
