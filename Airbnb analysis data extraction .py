@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
 
 # In[1]:
 
@@ -285,13 +283,7 @@ df.dtypes
 df.to_csv('airbnb.csv', index=False)
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
 
 
 
